@@ -1,51 +1,56 @@
-👋 Hi, I'm Ayush Kumawat
+# 👋 Hi, I'm Ayush Kumawat
 
-🚀 Aspiring DevOps Engineer | MCA 2025 Graduate
+## 🚀 Aspiring DevOps Engineer
 
-☁️ AWS | 🐧 Linux | 🐳 Docker | ☸️ Kubernetes | 🌐 NGINX | Git & GitHub
+🎓 MCA Graduate (IPS Academy, Indore - 2025)
 
----
+💻 Passionate about Cloud Computing, Linux Administration and DevOps
 
-👨‍💻 About Me
+🌱 Currently Learning Kubernetes, CI/CD and Cloud Technologies
 
-- 🎓 MCA Graduate (IPS Academy, Indore) - 2025
-- 🌱 Currently learning Kubernetes, CI/CD and Cloud Technologies
-- ☁️ Hands-on experience with AWS EC2, S3, IAM and VPC
-- 🐧 Strong understanding of Linux Administration
-- 🐳 Learning Docker and Containerization
-- 🚀 Looking for DevOps Engineer Opportunities
+📍 Ujjain, Madhya Pradesh, India
 
 ---
 
-🛠️ Skills
+## 🛠️ Skills & Technologies
 
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white)
+
+---
+
+## 📂 Featured Project
+
+### 🌐 Portfolio Website
+
+Hosted a personal portfolio website on AWS EC2 using NGINX.
+
+Technologies Used:
+
+- AWS EC2
 - Linux
-- AWS
-- Git
-- GitHub
-- Docker
-- Kubernetes
 - NGINX
-- Shell Scripting
+- Git & GitHub
+- HTML
 
 ---
 
-🚀 Featured Project
-
-Portfolio Website Deployment
-
-- Hosted on AWS EC2
-- Configured NGINX Web Server
-- Managed source code using Git & GitHub
-- Personal Portfolio Website Deployment
-
----
-
-📫 Connect With Me
+## 📫 Connect With Me
 
 📧 Email: ayushkumawat161102@gmail.com
 
-🔗 LinkedIn:
+💼 LinkedIn:
 https://www.linkedin.com/in/ayush-kumawat-440907304
 
 🐙 GitHub:
@@ -53,4 +58,4 @@ https://github.com/ayushkumawat16
 
 ---
 
-⭐ Always Learning | Always Building | DevOps Journey 🚀
+⭐ Always learning and improving my DevOps skills.
